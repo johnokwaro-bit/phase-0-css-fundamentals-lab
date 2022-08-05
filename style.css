@@ -1,5 +1,47 @@
-body {
-  width: 100%;
+body{
   height: 100%;
-  margin: 0;
+  text-align: center;
+  font-size: smaller;
+  
+}
+
+
+header{
+  text-align: center;
+  
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+a{
+  padding: 0 10px;
+  
+}
+ 
+div{
+  background-color: red;
+  text-align: center; 
+  float: left;
+  width: 25%;
+
+}
+
+#featured-property p{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 800px;
+  
+}
+
+#details{
+  display: block;
+  text-align: center;
+    
 }
